@@ -1,0 +1,76 @@
+{
+  "navbar": {
+    "search": "Search",
+    "order": "Order",
+    "orderNotAvailable": "Ordering is not available yet",
+    "trendingItems": "Trending Items",
+    "menu": {
+      "home": "Home",
+      "topProducts": "Top Products",
+      "womensShirts": "Women's Shirts",
+      "shoes": "Shoes",
+      "perfumes": "Perfumes"
+    },
+    "dropdown": {
+      "trendingProducts": "Trending products",
+      "bestSelling": "Best selling",
+      "topRated": "Top Rated"
+    }
+  },
+  "hero": {
+    "slide1": {
+      "title": "Welcome to ZAAD Collections",
+      "description": "Discover the latest trends in fashion at unbeatable prices. Shop now and enjoy fast delivery!"
+    },
+    "slide2": {
+      "title": "Stylish Abayas for Every Occasion",
+      "description": "Explore our exclusive collection of beautifully designed abayas, perfect for any event."
+    },
+    "slide3": {
+      "title": "Loyalty Rewards Program",
+      "description": "Become a gold-level customer by placing 5 orders annually and enjoy exclusive discounts!"
+    },
+    "orderNow": "Order Now"
+  },
+  "products": {
+    "headerText": "Top Selling Products for Every Style",
+    "subheaderText": "Discover Our Exclusive Collection",
+    "description": "Explore our handpicked selection of premium products designed to elevate your style and comfort."
+  },
+  "shoes": {
+    "headerText": "Top Selling Shoes for Every Style",
+    "subheaderText": "Discover Our Exclusive Collection",
+    "description": "Elevate your footwear game with our handpicked selection of premium shoes."
+  },
+  "perfumes": {
+    "headerText": "Discover the Essence of Luxury",
+    "subheaderText": "Our Finest Perfumes",
+    "description": "Indulge in the finest fragrances crafted with precision and passion."
+  },
+  "testimonials": {
+    "headerText": "What our customers are saying",
+    "subheaderText": "Testimonials",
+    "description": "Hear from our satisfied clients about their experiences with our services."
+  },
+  "subscribe": {
+    "headerText": "Get Notified About New Products",
+    "emailPlaceholder": "Enter your email"
+  },
+  "footer": {
+    "companyDescription": "Discover the latest trends in fashion with Zaad Collections. We bring you premium quality clothing and accessories that combine style, comfort, and affordability.",
+    "quickLinks": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact",
+      "blog": "Blog"
+    },
+    "supportLinks": {
+      "faq": "FAQ",
+      "shippingReturns": "Shipping & Returns",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "followUs": "Follow Us",
+    "address": "Gardo, Puntland, Somalia",
+    "phone": "+252 906444290"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "navbar": {
+    "search": "Rechercher",
+    "order": "Commander",
+    "orderNotAvailable": "La commande n'est pas encore disponible",
+    "trendingItems": "Articles tendance",
+    "menu": {
+      "home": "Accueil",
+      "topProducts": "Meilleurs produits",
+      "womensShirts": "Chemises pour femmes",
+      "shoes": "Chaussures",
+      "perfumes": "Parfums"
+    },
+    "dropdown": {
+      "trendingProducts": "Produits tendance",
+      "bestSelling": "Meilleures ventes",
+      "topRated": "Les mieux notés"
+    }
+  },
+  "hero": {
+    "slide1": {
+      "title": "Bienvenue chez ZAAD Collections",
+      "description": "Découvrez les dernières tendances de la mode à des prix imbattables. Achetez maintenant et profitez d'une livraison rapide !"
+    },
+    "slide2": {
+      "title": "Abayas élégantes pour toutes les occasions",
+      "description": "Découvrez notre collection exclusive d'abayas magnifiquement conçues, parfaites pour tout événement."
+    },
+    "slide3": {
+      "title": "Programme de récompenses de fidélité",
+      "description": "Devenez un client de niveau or en passant 5 commandes par an et profitez de réductions exclusives !"
+    },
+    "orderNow": "Commander maintenant"
+  },
+  "products": {
+    "headerText": "Produits les plus vendus pour tous les styles",
+    "subheaderText": "Découvrez notre collection exclusive",
+    "description": "Explorez notre sélection de produits premium conçus pour rehausser votre style et votre confort."
+  },
+  "shoes": {
+    "headerText": "Chaussures les plus vendues pour tous les styles",
+    "subheaderText": "Découvrez notre collection exclusive",
+    "description": "Rehaussez votre style avec notre sélection de chaussures premium."
+  },
+  "perfumes": {
+    "headerText": "Découvrez l'essence du luxe",
+    "subheaderText": "Nos meilleurs parfums",
+    "description": "Offrez-vous les fragrances les plus fines, créées avec précision et passion."
+  },
+  "testimonials": {
+    "headerText": "Ce que disent nos clients",
+    "subheaderText": "Témoignages",
+    "description": "Découvrez les expériences de nos clients satisfaits avec nos services."
+  },
+  "subscribe": {
+    "headerText": "Soyez informé des nouveaux produits",
+    "emailPlaceholder": "Entrez votre email"
+  },
+  "footer": {
+    "companyDescription": "Découvrez les dernières tendances de la mode avec Zaad Collections. Nous vous proposons des vêtements et accessoires de qualité supérieure alliant style, confort et accessibilité.",
+    "quickLinks": {
+      "home": "Accueil",
+      "about": "À propos",
+      "contact": "Contact",
+      "blog": "Blog"
+    },
+    "supportLinks": {
+      "faq": "FAQ",
+      "shippingReturns": "Livraison et retours",
+      "privacyPolicy": "Politique de confidentialité"
+    },
+    "followUs": "Suivez-nous",
+    "address": "Gardo, Puntland, Somalie",
+    "phone": "+252 906444290"
+  }
+}
